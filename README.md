@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11dgZQ7FA7TcHzjkfHsG4jqo_WCHmqwTY/view?usp=sharing](https://drive.google.com/file/d/11dgZQ7FA7TcHzjkfHsG4jqo_WCHmqwTY/view?usp=sharing)
 
-- ⚡ Fun fact **I love gaming and coding**
+- ⚡ Fun fact **I love gaming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
