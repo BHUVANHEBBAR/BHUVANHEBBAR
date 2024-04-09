@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuzkashi&label=Profile%20views&color=0e75b6&style=flat" alt="bhuzkashi" /> </p>
 
-- 🔭 Visit my portfolio page [here]([https://github.com/BHUVANHEBBAR/Blog-it](https://portfolio-liard-eight-24.vercel.app/))
+- 🔭 Visit my portfolio page [here](https://portfolio-liard-eight-24.vercel.app)
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
