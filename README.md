@@ -5,7 +5,7 @@
 
 - 🔭 Visit my portfolio page [here](https://portfolio-liard-eight-24.vercel.app)
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Java Development**
 
 - 📫 How to reach me **bhuvantgh@gmail.com**
 
