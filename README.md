@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bhuvantgh@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://tinyurl.com/bhuzkashi-res)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1rmHDmiJpvwwINucagQovfgQH0t4tFw1s/view?usp=sharing)
 
 - ⚡ Fun fact **I love gaming**
 
